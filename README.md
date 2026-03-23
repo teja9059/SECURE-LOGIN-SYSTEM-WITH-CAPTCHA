@@ -6,41 +6,25 @@ A Secure Login System with CAPTCHA is a web-based authentication system designed
 
 User Authentication
 Secure login using username and password
-
 CAPTCHA Verification
 Prevents bots and automated login attempts
-
 Password Security
 Passwords stored using hashing (not plain text)
-
 Input Validation
 Protects against SQL injection and invalid inputs
-
 Failed Login Tracking
 Logs incorrect login attempts for security monitoring
-
 User Activity Monitoring
-
 Records details like:
-
 IP address
-
 Timestamp
-
 Device/Browser info
-
 (MAC address in local network setups)
-
 Session Management
-
 Maintains secure login session after authentication
-
 Error Handling
-
 Displays proper messages for invalid credentials or CAPTCHA
-
 Admin Monitoring (optional but strong point)
-
 Admin can view suspicious login attempts
 
 
