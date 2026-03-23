@@ -1,4 +1,6 @@
 A Secure Login System with CAPTCHA is a web-based authentication system designed to prevent unauthorized access and automated bot attacks. It combines user credential verification with CAPTCHA validation to enhance security and ensure that only legitimate human users can log in.
+
+
 🔐 Features of Secure Login System with CAPTCHA
 User Authentication
 Secure login using username and password
@@ -22,6 +24,8 @@ Error Handling
 Displays proper messages for invalid credentials or CAPTCHA
 Admin Monitoring (optional but strong point)
 Admin can view suspicious login attempts
+
+
 ⚙️ Workflow of the System
 Step 1: User Access
 User opens the login page
